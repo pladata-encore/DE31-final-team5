@@ -31,6 +31,7 @@
 ![image](https://github.com/user-attachments/assets/49243e81-350e-457c-afda-9915e23c91b2)
 
 ## CI/CD Workflow
-<img width="408" alt="image" src="https://github.com/user-attachments/assets/aba25e1b-0e80-4ca3-a0d7-0c54733965f2">
+![image](https://github.com/user-attachments/assets/1683a1c7-79a7-46bd-aecd-10b6ac73fcb0)
+
 
 ## 향후 계획
