@@ -9,7 +9,11 @@
 
 📄 프로젝트 기획안 : [건강이조 프로젝트 기획(안)_최종.pdf](https://github.com/user-attachments/files/17132807/_.pdf)
 
-📄 발표자료 pdf :
+📄 User Story : [사용자스토리.pdf](https://github.com/user-attachments/files/17133060/default.pdf)
+
+📄 API 명세서 : [API 명세서.pdf](https://github.com/user-attachments/files/17133014/API.pdf)
+
+📄 발표자료 pdf : 
 
 📄 발표자료 ppt : 
 
@@ -122,6 +126,7 @@ https://github.com/user-attachments/assets/1920fd28-629d-403c-b1e4-640a785e83b9
 ### 6. 클라우드 인프라를 코들 관리하는 IaC 방식 도입
 ### 7. GitHub Actions를 활용한 배포 자동화로 지속적 통합 및 배포(CI/CD) 효율화
 
+
 ---
 
 ## 기술 스택
@@ -170,7 +175,7 @@ https://github.com/user-attachments/assets/1920fd28-629d-403c-b1e4-640a785e83b9
 ![image](https://github.com/user-attachments/assets/dede00f7-22a3-4dfa-859e-4a317c99547e)
 
 
---- 
+
 
 ## 향후 계획
 + AI Model Update
