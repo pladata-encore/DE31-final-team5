@@ -104,19 +104,61 @@
 
 ## 앱 UI 구성
 
+### Splash Screen
 ![image](https://github.com/user-attachments/assets/57aad464-25dc-4689-aad8-b1a61e82babe)
+
+
+
+### 시작화면
 ![image](https://github.com/user-attachments/assets/fbf1547c-b0c9-40a2-998f-5ef4647f2ef5)
+
+
+
+### (회원가입) 생년월일 입력 화면
 ![image](https://github.com/user-attachments/assets/9122b341-08c0-4886-94e6-8166e4170f56)
+
+
+
+### (회원가입) 성별 선택 화면
 ![image](https://github.com/user-attachments/assets/bb7919b2-c79c-4f53-ae6b-38e87429f627)
+
+
+### (회원가입) 키 입력 화면
 ![image](https://github.com/user-attachments/assets/b7c9228d-d58a-4f6d-bc9c-41f06c773f94)
+
+
+### (회원가입) 몸무게 입력 화면
 ![image](https://github.com/user-attachments/assets/180e9d31-b0a5-4979-a26c-ae6a43a8baf6)
+
+
+
+---
+
+
+
+### 홈 화면
 ![image](https://github.com/user-attachments/assets/ed583dd8-5885-44cf-8468-aa6718adcf94)
+
+
+### 분석 화면
 ![image](https://github.com/user-attachments/assets/72ef3bb0-6fd6-45c8-8fe4-e31ecaafede2)
+
+
+### 기록 화면
 ![image](https://github.com/user-attachments/assets/c9374b20-b51b-43a9-8b78-9dbf559b4dd7)
 
 
 
-
-
+---
 
 ## 향후 계획
++ AI Model Update
+  + 한식, 일식, 분식 종류 추가
+  + 중식, 양식 카테고리 확장
+ 
++ SSL 인증서 추가로 HTTPS 구현
+  + HTTPS 도메인 활성화로 보안성 향상
+ 
++ 실서비스 배포
+  + Google Play Stroe Beta Release
+  + Full Release  
