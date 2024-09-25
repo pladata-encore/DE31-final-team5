@@ -15,7 +15,7 @@
 
 📄 발표자료 pdf : [최종 발표_건강이조_v0.3.pdf](https://github.com/user-attachments/files/17133497/_._v0.3.pdf)
 
-📄 발표자료 ppt : 
+📄 발표자료 ppt : [최종 발표_건강이조_v0.3.pptx](https://github.com/user-attachments/files/17133702/_._v0.3.pptx)
 
 📄 시연 영상 : 
 
