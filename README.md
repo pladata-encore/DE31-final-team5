@@ -20,14 +20,14 @@
    - 직관적인 UI를 통한 쉬운 식단 관리 및 분석
      
 ## 기술 스택
-**AI Model**: MobileNetv3-large (경량화 모델)
-**AI Model**: MobileNetv3-large (경량화 모델)
-<img src="https://github.com/user-attachments/assets/12bcf6ab-0727-4d2c-8787-33344177e18b" width="400" height="400">
+**AI Model**
+### MobileNetv3-large (경량화 모델)
+<img src="https://github.com/user-attachments/assets/12bcf6ab-0727-4d2c-8787-33344177e18b" width="100" height="100">
 
-**Frontend**
+**Frontend**\
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-**Backend**
+**Backend**\
 <img src="https://github.com/user-attachments/assets/1576558d-6881-4b88-82e0-3b5a3b04c3d9" width="500" />
 <img src="https://github.com/user-attachments/assets/df5ac783-53b6-47f4-9746-1cd6d1383052" width="500" />
 
