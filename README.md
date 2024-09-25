@@ -22,7 +22,7 @@
 ## 기술 스택
 **AI Model**: MobileNetv3-large (경량화 모델)
 **AI Model**: MobileNetv3-large (경량화 모델)
-<img src="https://github.com/user-attachments/assets/12bcf6ab-0727-4d2c-8787-33344177e18b.png" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/12bcf6ab-0727-4d2c-8787-33344177e18b.png" width="400" height="400">
 
 **Frontend**
 <img src="https://github.com/user-attachments/assets/c1433ed1-f218-4ae7-bdd9-8aa0ebdc6a8f" width="500" />
