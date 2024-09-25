@@ -102,6 +102,21 @@
 ![image](https://github.com/user-attachments/assets/1683a1c7-79a7-46bd-aecd-10b6ac73fcb0)
 
 
+## 앱 UI 구성
+
+![image](https://github.com/user-attachments/assets/57aad464-25dc-4689-aad8-b1a61e82babe)
+![image](https://github.com/user-attachments/assets/fbf1547c-b0c9-40a2-998f-5ef4647f2ef5)
+![image](https://github.com/user-attachments/assets/9122b341-08c0-4886-94e6-8166e4170f56)
+![image](https://github.com/user-attachments/assets/bb7919b2-c79c-4f53-ae6b-38e87429f627)
+![image](https://github.com/user-attachments/assets/b7c9228d-d58a-4f6d-bc9c-41f06c773f94)
+![image](https://github.com/user-attachments/assets/180e9d31-b0a5-4979-a26c-ae6a43a8baf6)
+![image](https://github.com/user-attachments/assets/ed583dd8-5885-44cf-8468-aa6718adcf94)
+![image](https://github.com/user-attachments/assets/72ef3bb0-6fd6-45c8-8fe4-e31ecaafede2)
+![image](https://github.com/user-attachments/assets/c9374b20-b51b-43a9-8b78-9dbf559b4dd7)
+
+
+
+
 
 
 ## 향후 계획
