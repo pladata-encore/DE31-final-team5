@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/7ebfc416-2186-48ba-89e1-915a36b83f0a)
 
 
----
+
 ## 제출 자료
 
 
@@ -13,7 +13,7 @@
 
 📄 API 명세서 : [API 명세서.pdf](https://github.com/user-attachments/files/17133014/API.pdf)
 
-📄 발표자료 pdf : 
+📄 발표자료 pdf : [최종 발표_건강이조_v0.3.pdf](https://github.com/user-attachments/files/17133497/_._v0.3.pdf)
 
 📄 발표자료 ppt : 
 
@@ -99,6 +99,10 @@ https://github.com/user-attachments/assets/1920fd28-629d-403c-b1e4-640a785e83b9
    - 경량화 모델 MobileNet 기반 전이학습
    - 제한된 애플리케이션 환경 내 빠른 추론 속도 확보를 위해 Mixed Precision 경량화 기법 적용
    - 하이퍼 파라미터 튜닝으로 99.86%의 테스트 정확도와 868ms의 latency 확보
+
+
+![image](https://github.com/user-attachments/assets/df10ed94-8507-4b6c-becd-b000b7d1be21)
+
   
 
 ### 2.  직관적인 UI 구성
