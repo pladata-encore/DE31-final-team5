@@ -26,7 +26,11 @@
 **Database**: PostgreSQL\
 **Cloud**: AWS 
 **CI/CD**: GitHub Actions, Terraform
+
 ## 시스템 아키텍쳐
 ![image](https://github.com/user-attachments/assets/49243e81-350e-457c-afda-9915e23c91b2)
+
+## CI/CD Workflow
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/aba25e1b-0e80-4ca3-a0d7-0c54733965f2">
 
 ## 향후 계획
