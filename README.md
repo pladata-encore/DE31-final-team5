@@ -40,8 +40,6 @@
 
 <img src="https://github.com/user-attachments/assets/1576558d-6881-4b88-82e0-3b5a3b04c3d9" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/df5ac783-53b6-47f4-9746-1cd6d1383052"  width="100" height="100">
-<img src="https://github.com/user-attachments/assets/5c94862a-9f87-4c97-92a3-b8bbbc484810" width="100" height="100">
-
 
 
 **Database**
