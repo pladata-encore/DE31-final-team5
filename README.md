@@ -7,9 +7,11 @@
 ## 제출 자료
 
 
-📄 프로젝트 기획안 : 
+📄 프로젝트 기획안(pdf) : [건강이조 프로젝트 기획(안)_최종.pdf](https://github.com/user-attachments/files/17132807/_.pdf)
 
 📄 발표자료 pdf :
+
+📄 발표자료 ppt : 
 
 📄 시연 영상 : 
 
