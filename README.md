@@ -21,29 +21,29 @@
      
 ## 기술 스택
 **AI Model**: MobileNetv3-large (경량화 모델)
-<img src="https://github.com/user-attachments/assets/12bcf6ab-0727-4d2c-8787-33344177e18b" width="500" />
+[AI Model Image](https://github.com/user-attachments/assets/12bcf6ab-0727-4d2c-8787-33344177e18b)
 
 **Frontend**
-<img src="https://github.com/user-attachments/assets/c1433ed1-f218-4ae7-bdd9-8aa0ebdc6a8f" width="500" />
+[Frontend Image](https://github.com/user-attachments/assets/c1433ed1-f218-4ae7-bdd9-8aa0ebdc6a8f)
 
 **Backend**
-<img src="https://github.com/user-attachments/assets/1576558d-6881-4b88-82e0-3b5a3b04c3d9" width="500" />
-<img src="https://github.com/user-attachments/assets/df5ac783-53b6-47f4-9746-1cd6d1383052" width="500" />
+[Backend Image 1](https://github.com/user-attachments/assets/1576558d-6881-4b88-82e0-3b5a3b04c3d9)
+[Backend Image 2](https://github.com/user-attachments/assets/df5ac783-53b6-47f4-9746-1cd6d1383052)
 
 **Database**
-<img src="https://github.com/user-attachments/assets/fb44f5a5-9cd2-4a28-b120-c9054796258e" width="500" />
+[Database Image](https://github.com/user-attachments/assets/fb44f5a5-9cd2-4a28-b120-c9054796258e)
 
 **Cloud**
-<img src="https://github.com/user-attachments/assets/d14a1b02-bd63-4a6b-87f0-a1632158502f" width="500" />
+[Cloud Image](https://github.com/user-attachments/assets/d14a1b02-bd63-4a6b-87f0-a1632158502f)
 
 **Dependency**
-<img src="https://github.com/user-attachments/assets/803f5113-985a-45d2-a2a6-94d4875dee0b" width="500" />
+[Dependency Image](https://github.com/user-attachments/assets/803f5113-985a-45d2-a2a6-94d4875dee0b)
 
 **Infra**
-<img src="https://github.com/user-attachments/assets/c178153c-995a-4ec4-a18d-b8f605c4ed91" width="500" />
+[Infra Image](https://github.com/user-attachments/assets/c178153c-995a-4ec4-a18d-b8f605c4ed91)
 
 **CI/CD**
-<img src="https://github.com/user-attachments/assets/6d5999ec-41f3-4f19-a2fd-552e868ce7e9" width="500" />
+[CI/CD Image](https://github.com/user-attachments/assets/6d5999ec-41f3-4f19-a2fd-552e868ce7e9)
 
 
 ## 시스템 아키텍쳐
