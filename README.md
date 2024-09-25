@@ -3,8 +3,26 @@
 ![image](https://github.com/user-attachments/assets/7ebfc416-2186-48ba-89e1-915a36b83f0a)
 
 
+---
+## 제출 자료
 
 
+📄 프로젝트 기획안 : 
+
+📄 발표자료 pdf :
+
+📄 시연 영상 : 
+
+https://github.com/user-attachments/assets/1920fd28-629d-403c-b1e4-640a785e83b9
+
+
+
+
+## 프로젝트 진행 기간
+### 2024년 8월 5일 - 2024년 9월 27일
+
+
+---
 ## 프로젝트 목표
 
 - Target
@@ -38,23 +56,32 @@
 
 ## Solution KeyWords
 
+|Keyworkds|Meaning|
+|:---|:---|
+|Fast|빠른 추론|
+|Accurate|정확한 분석|
+|Seamless|직관적인 인터페이스|
+|Easy|쉬운 사용|
+|Secure|안전한 사용자 정보 및 인프라 관리|
+|Flexible|유연한 설계|
+|Robust|견고한 설계|
 
 
 
 
 ## 주요 기능
-1. **회원 관리**
+### 1. **회원 관리**
    - 카카오 소셜 로그인을 통한 간편한 회원가입 및 로그인
    - 자체 JWT 기반의 보안 강화된 인증 시스템으로 보안 강화
 
-2. **맞춤형 영양 추천**
+### 2. **맞춤형 영양 추천**
    - 사용자의 신체 정보를 바탕으로 일일 권장 영양소 계산 및 추천
 
-3. **AI 기반 음식 인식**
+### 3. **AI 기반 음식 인식**
    - 단 한 장의 사진 업로드로 음식 자동 인식 및 영양 정보 제공
    - 빠르고 정확한 식단 기록 지원
 
-4. **식단 기록 및 분석**
+### 4. **식단 기록 및 분석**
    - 일일 섭취량 자동 계산 및 기록
    - 직관적인 UI 구성으로 앱 사용성 향상
   
@@ -116,7 +143,9 @@
 
 ### 시작화면
 
-<img 
+
+![image](https://github.com/user-attachments/assets/ce87087a-7782-4b82-ba16-391159997224)
+
 
 ---
 
@@ -138,11 +167,6 @@
 ![image](https://github.com/user-attachments/assets/dede00f7-22a3-4dfa-859e-4a317c99547e)
 
 
----
-
-## 
-
-
 --- 
 
 ## 향후 계획
@@ -155,4 +179,4 @@
  
 + 실서비스 배포
   + Google Play Stroe Beta Release
-  + Full Release  
+  + Full Release
