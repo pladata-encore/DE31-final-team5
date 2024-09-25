@@ -1,5 +1,8 @@
-# 건강이조
-# 🥗AI 기반식단 관리 서비스 개발
+# 🥗AI 기반 식단 관리 서비스 개발
+
+![image](https://github.com/user-attachments/assets/7ebfc416-2186-48ba-89e1-915a36b83f0a)
+
+
 
 
 ## 프로젝트 목표
@@ -13,11 +16,13 @@
 
 
 
-## 팀원 소개
+## 팀 소개
+
+### 팀명 : 건강이조
 
 |이름|이메일|역할|
 |:---|:---|:---|
-|추현형|encorechu24@gmail.com|모델 개발|
+|추현영|encorechu24@gmail.com|모델 개발|
 |권시은|5016sieun@naver.com|애플리케이션 개발|
 |김승주|tmdwnabc@gmail.com|데이터베이스 관리|
 |노석현|shtjrgus010@gmail.com|인프라 구축|
@@ -29,6 +34,11 @@
 ## ERD
 
 ![image](https://github.com/user-attachments/assets/0b4f8557-cf7e-4d1a-8a8c-4ee54e02bcf8)
+
+
+## Solution KeyWords
+
+
 
 
 
@@ -136,9 +146,22 @@
 
 <img src="https://github.com/user-attachments/assets/bb6f07bb-011b-4615-925d-241b4c1f65a7" width="100" height="100">
 
+[프로그래밍 언어] : Python / Dart
 
-### OS
+[프레임워크] : Pytorch / Flutter / FastAPI
 
+[클라우드 및 인프라] : AWS / Terraform / Docker
+
+[데이터베이스] : PostgreSQL
+
+[CI/CD] : GItHub Actions
+
+[버전 관리] : GitHub
+
+[개발 도구] : VSCode
+
+
+---
 
 
 ## 시스템 아키텍쳐
