@@ -71,7 +71,11 @@
    - 사용자의 편의성을 고려하여 입력 방식 간소화
    - 섭취 칼로리 정보 별 Progress Bar 색상 변화
      - 권장칼로리 초과 시 중첩 표시
+    
+       
        ![image](https://github.com/user-attachments/assets/023cf67a-7919-4cce-8852-abc88a6f03d4)
+
+      
    - 간결한 하단 Navigation Bar 구성
    - 메타데이터 기반 식사 타입 지정
 
@@ -91,74 +95,11 @@
 ---
 
 ## 기술 스택
-### Deep Learning FrameWork 
-
-
-<img src="https://github.com/user-attachments/assets/12bcf6ab-0727-4d2c-8787-33344177e18b" width="100" height="100">
-
-
-### Mobile UI FrameWork
-
-
-<img src="https://github.com/user-attachments/assets/c1433ed1-f218-4ae7-bdd9-8aa0ebdc6a8f"  width="100" height="100">
-
-
-### Backend
-
-
-<img src="https://github.com/user-attachments/assets/1576558d-6881-4b88-82e0-3b5a3b04c3d9" width="100" height="100">
-<img src="https://github.com/user-attachments/assets/df5ac783-53b6-47f4-9746-1cd6d1383052"  width="100" height="100">
-
-
-### Database
-
-
-<img src="https://github.com/user-attachments/assets/fb44f5a5-9cd2-4a28-b120-c9054796258e"  width="100" height="100">
 
 
 
-### Cloud
+![image](https://github.com/user-attachments/assets/8d18faf0-3ff6-4081-9845-769437639007)
 
-
-<img src="https://github.com/user-attachments/assets/d14a1b02-bd63-4a6b-87f0-a1632158502f"  width="100" height="100">
-
-
-### Dependency
-
-
-<img src="https://github.com/user-attachments/assets/803f5113-985a-45d2-a2a6-94d4875dee0b"  width="100" height="100">
-
-
-### Infra
-
-
-<img src="https://github.com/user-attachments/assets/c178153c-995a-4ec4-a18d-b8f605c4ed91" width="100" height="100">
-
-
-### CI/CD
-
-
-<img src="https://github.com/user-attachments/assets/6d5999ec-41f3-4f19-a2fd-552e868ce7e9" width="100" height="100">
-
-
-### Containerization
-
-
-<img src="https://github.com/user-attachments/assets/bb6f07bb-011b-4615-925d-241b4c1f65a7" width="100" height="100">
-
-[프로그래밍 언어] : Python / Dart
-
-[프레임워크] : Pytorch / Flutter / FastAPI
-
-[클라우드 및 인프라] : AWS / Terraform / Docker
-
-[데이터베이스] : PostgreSQL
-
-[CI/CD] : GItHub Actions
-
-[버전 관리] : GitHub
-
-[개발 도구] : VSCode
 
 
 ---
@@ -175,7 +116,7 @@
 
 ### 시작화면
 
-![image](https://github.com/user-attachments/assets/640960fc-9994-4265-beb3-b7d82932eeb0)
+<img 
 
 ---
 
@@ -198,6 +139,11 @@
 
 
 ---
+
+## 
+
+
+--- 
 
 ## 향후 계획
 + AI Model Update
