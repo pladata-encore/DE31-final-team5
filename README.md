@@ -22,10 +22,10 @@
 ## 기술 스택
 **AI Model**: MobileNetv3-large (경량화 모델)
 **AI Model**: MobileNetv3-large (경량화 모델)
-<img src="https://github.com/user-attachments/assets/12bcf6ab-0727-4d2c-8787-33344177e18b.png" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/12bcf6ab-0727-4d2c-8787-33344177e18b" width="400" height="400">
 
 **Frontend**
-<img src="https://github.com/user-attachments/assets/c1433ed1-f218-4ae7-bdd9-8aa0ebdc6a8f" width="500" />
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 **Backend**
 <img src="https://github.com/user-attachments/assets/1576558d-6881-4b88-82e0-3b5a3b04c3d9" width="500" />
