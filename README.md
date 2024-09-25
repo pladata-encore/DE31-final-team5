@@ -20,12 +20,31 @@
    - 직관적인 UI를 통한 쉬운 식단 관리 및 분석
      
 ## 기술 스택
-**AI Model**: MobileNetv3-large (경량화 모델)\
-**Frontend**: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><g fill="#3FB6D3"><path d="M12.3 64.2L76.3 0h39.4L32.1 83.6zM76.3 128h39.4L81.6 93.9l34.1-34.8H76.3L42.2 93.5z"/></g><path fill="#27AACD" d="M81.6 93.9l-20-20-19.4 19.6 19.4 19.6z"/><path fill="#19599A" d="M115.7 128L81.6 93.9l-20 19.2L76.3 128z"/><linearGradient id="flutter-original-a" gradientUnits="userSpaceOnUse" x1="59.365" y1="116.36" x2="86.825" y2="99.399"><stop offset="0" stop-color="#1b4e94"/><stop offset=".63" stop-color="#1a5497"/><stop offset="1" stop-color="#195a9b"/></linearGradient><path fill="url(#flutter-original-a)" d="M61.6 113.1l30.8-8.4-10.8-10.8z"/></svg>
-**Backend**: FastAPI, SQLAlchemy\
-**Database**: PostgreSQL\
-**Cloud**: AWS 
-**CI/CD**: GitHub Actions, Terraform
+**AI Model**: MobileNetv3-large (경량화 모델)
+![image](https://github.com/user-attachments/assets/12bcf6ab-0727-4d2c-8787-33344177e18b)
+
+
+**Frontend**
+![image](https://github.com/user-attachments/assets/c1433ed1-f218-4ae7-bdd9-8aa0ebdc6a8f)
+
+**Backend**
+![image](https://github.com/user-attachments/assets/1576558d-6881-4b88-82e0-3b5a3b04c3d9)
+![image](https://github.com/user-attachments/assets/df5ac783-53b6-47f4-9746-1cd6d1383052)
+
+**Database**
+![image](https://github.com/user-attachments/assets/fb44f5a5-9cd2-4a28-b120-c9054796258e)
+
+**Cloud**
+![image](https://github.com/user-attachments/assets/d14a1b02-bd63-4a6b-87f0-a1632158502f)
+
+**Dependency**
+![image](https://github.com/user-attachments/assets/803f5113-985a-45d2-a2a6-94d4875dee0b)
+
+**Infra**
+![image](https://github.com/user-attachments/assets/c178153c-995a-4ec4-a18d-b8f605c4ed91)
+
+**CI/CD**
+![image](https://github.com/user-attachments/assets/6d5999ec-41f3-4f19-a2fd-552e868ce7e9)
 
 ## 시스템 아키텍쳐
 ![image](https://github.com/user-attachments/assets/49243e81-350e-457c-afda-9915e23c91b2)
