@@ -8,7 +8,7 @@
 ## 팀원 소개
 
 |이름|이메일|역할|
-|:---:|:---:|:---:|
+|:---|:---|:---|
 |추현형|encorechu24@gmail.com|모델 개발|
 |권시은|5016sieun@naver.com|애플리케이션 개발|
 |김승주|tmdwnabc@gmail.com|데이터베이스 관리|
@@ -105,22 +105,30 @@
 ## 앱 UI 구성
 
 ### Splash Screen
-![image](https://github.com/user-attachments/assets/57aad464-25dc-4689-aad8-b1a61e82babe)
++ 앱 시작시 처음 보이는 화면
+  
+   ![image](https://github.com/user-attachments/assets/57aad464-25dc-4689-aad8-b1a61e82babe)
 
 
 
 ### 시작화면
-![image](https://github.com/user-attachments/assets/fbf1547c-b0c9-40a2-998f-5ef4647f2ef5)
++ 앱 설치 또는 앱 완전 종료 후 스플래시 화면 이후 화면
+  
+   ![image](https://github.com/user-attachments/assets/fbf1547c-b0c9-40a2-998f-5ef4647f2ef5)
 
 
 
 ### (회원가입) 생년월일 입력 화면
-![image](https://github.com/user-attachments/assets/9122b341-08c0-4886-94e6-8166e4170f56)
++ 회원가입 시 등록해야 하는 필수정보 입력화면 1
+
+   ![image](https://github.com/user-attachments/assets/9122b341-08c0-4886-94e6-8166e4170f56)
 
 
 
 ### (회원가입) 성별 선택 화면
-![image](https://github.com/user-attachments/assets/bb7919b2-c79c-4f53-ae6b-38e87429f627)
++ 회원가입 시 
+
+   ![image](https://github.com/user-attachments/assets/bb7919b2-c79c-4f53-ae6b-38e87429f627)
 
 
 ### (회원가입) 키 입력 화면
