@@ -1,0 +1,72 @@
+// view_models/home_view_model.dart
+import 'package:flutter/material.dart';
+import 'package:frontend/features/home/repos/nutrition_repository.dart';
+import 'package:image_picker/image_picker.dart';
+import 'package:permission_handler/permission_handler.dart';
+
+class HomeViewModel extends ChangeNotifier {
+  final NutritionRepository _repository = NutritionRepository();
+  Map<String, dynamic> _jsonData = {};
+  bool _isLoading = true;
+  bool _isRequestingPermission = false;
+
+  Map<String, dynamic> get jsonData => _jsonData;
+  bool get isLoading => _isLoading;
+
+  HomeViewModel() {
+    loadJsonData();
+  }
+
+  Future<void> loadJsonData() async {
+    try {
+      _jsonData = await _repository.loadJsonData();
+    } catch (e) {
+      debugPrint("Error loading data: $e");
+    } finally {
+      _isLoading = false;
+      notifyListeners();
+    }
+  }
+
+  Future<void> pickImage(BuildContext context) async {
+    if (_isRequestingPermission) return;
+
+    _isRequestingPermission = true;
+    try {
+      var status = await Permission.storage.status;
+      if (await Permission.photos.isGranted || await Permission.storage.isGranted) {
+        final ImagePicker picker = ImagePicker();
+        final XFile? image = await picker.pickImage(source: ImageSource.gallery);
+
+        if (image != null) {
+          Navigator.pushNamed(context, '/analyze', arguments: image);
+        }
+      } else {
+        status = await Permission.photos.request();
+        if (status.isGranted) {
+          final ImagePicker picker = ImagePicker();
+          final XFile? image = await picker.pickImage(source: ImageSource.gallery);
+
+          if (image != null) {
+            Navigator.pushNamed(context, '/analyze', arguments: image);
+          }
+        } else if (status.isDenied || status.isPermanentlyDenied) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: const Text('갤러리 접근 권한이 필요합니다.'),
+              action: SnackBarAction(
+                label: '설정으로 이동',
+                onPressed: () {
+                  openAppSettings();
+                },
+              ),
+            ),
+          );
+        }
+      }
+    } finally {
+      _isRequestingPermission = false;
+      notifyListeners();
+    }
+  }
+}
