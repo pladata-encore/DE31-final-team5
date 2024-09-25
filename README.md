@@ -1,7 +1,20 @@
 # DE31-final-team5
 # Playdata_DE31-final-foodimageapp
 ## 프로젝트 목표
-- AI 기반 식단 기록 앱 개발을 통한 기존 식단관리 앱의 문제점 해결
+- AI 기반 식단 기록 앱 개발을 통해 기존 식단관리 앱의 문제점을 해결합니다.
+
+
+
+## 팀원 소개
+
+|이름|이메일|역할|
+|:---:|:---:|:---:|
+|추현형|encorechu24@gmail.com|모델 개발|
+|권시은|5016sieun@naver.com|애플리케이션 개발|
+|김승주|tmdwnabc@gmail.com|데이터베이스 관리|
+|노석현|shtjrgus010@gmail.com|인프라 구축|
+|이하은|gkdmsgkdms22@gmail.com|API 개발|
+|이충원|cw3714@naver.com|모델 개발|
 
 
 ## 주요 기능
@@ -19,7 +32,8 @@
 4. **식단 기록 및 분석**
    - 일일 섭취량 자동 계산 및 기록
    - 직관적인 UI를 통한 쉬운 식단 관리 및 분석
-     
+
+
 ## 기술 스택
 ### Deep Learning FrameWork 
 
@@ -81,13 +95,13 @@
 
 
 
-
-
 ## 시스템 아키텍쳐
 ![image](https://github.com/user-attachments/assets/49243e81-350e-457c-afda-9915e23c91b2)
 
 ## CI/CD Workflow
 ![image](https://github.com/user-attachments/assets/1683a1c7-79a7-46bd-aecd-10b6ac73fcb0)
+
+
 
 
 ## 향후 계획
