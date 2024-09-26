@@ -13,9 +13,9 @@
 
 📄 API 명세서 : [API 명세서.pdf](https://github.com/user-attachments/files/17133014/API.pdf)
 
-📄 발표자료 pdf : [최종 발표_건강이조_v0.3.pdf](https://github.com/user-attachments/files/17133497/_._v0.3.pdf)
+📄 발표자료 pdf : [최종 발표_건강이조_v0.4.pdf](https://github.com/user-attachments/files/17139851/_._v0.4.pdf)
 
-📄 발표자료 ppt : [최종 발표_건강이조_v0.3.pptx](https://github.com/user-attachments/files/17133702/_._v0.3.pptx)
+📄 발표자료 ppt : [최종 발표_건강이조_v0.4.pptx](https://github.com/user-attachments/files/17139852/_._v0.4.pptx)
 
 📄 시연 영상 : 
 
@@ -101,7 +101,7 @@ https://github.com/user-attachments/assets/1920fd28-629d-403c-b1e4-640a785e83b9
    - 하이퍼 파라미터 튜닝으로 99.86%의 테스트 정확도와 868ms의 latency 확보
 
 
-![image](https://github.com/user-attachments/assets/df10ed94-8507-4b6c-becd-b000b7d1be21)
+![confusion_matrix](https://github.com/user-attachments/assets/5e3c75dc-9d89-4153-b119-01af151043f1)
 
   
 
