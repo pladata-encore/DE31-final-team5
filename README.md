@@ -19,7 +19,10 @@
 
 📄 시연 영상 : 
 
-https://github.com/user-attachments/assets/1920fd28-629d-403c-b1e4-640a785e83b9
+
+https://github.com/user-attachments/assets/f1d7f029-294a-446f-8257-6e4c16b9f6ae
+
+
 
 
 
