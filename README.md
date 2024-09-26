@@ -98,7 +98,7 @@ https://github.com/user-attachments/assets/1920fd28-629d-403c-b1e4-640a785e83b9
    - 한식/일식/분식 카테고리의 특징이 뚜렷한 10가지 음식 클래스 선정
    - 경량화 모델 MobileNet 기반 전이학습
    - 제한된 애플리케이션 환경 내 빠른 추론 속도 확보를 위해 Mixed Precision 경량화 기법 적용
-   - 하이퍼 파라미터 튜닝으로 99.86%의 테스트 정확도와 868ms의 latency 확보
+   - 하이퍼 파라미터 튜닝으로 95.92%의 테스트 정확도와 868ms의 latency 확보
 
 
 ![confusion_matrix](https://github.com/user-attachments/assets/5e3c75dc-9d89-4153-b119-01af151043f1)
