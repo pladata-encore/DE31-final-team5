@@ -176,7 +176,7 @@ https://github.com/user-attachments/assets/1920fd28-629d-403c-b1e4-640a785e83b9
 - 섭취한 음식을 기록하여 하루동안 먹은 음식을 한눈에 볼 수 있습니다.
 
 
-![image](https://github.com/user-attachments/assets/dede00f7-22a3-4dfa-859e-4a317c99547e)
+![image](https://github.com/user-attachments/assets/e9f29c1e-0ef7-4cfc-b783-d0c86b779284)
 
 
 
