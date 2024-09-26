@@ -115,7 +115,22 @@ https://github.com/user-attachments/assets/1920fd28-629d-403c-b1e4-640a785e83b9
 
       
    - 간결한 하단 Navigation Bar 구성
+
+
+       ![image](https://github.com/user-attachments/assets/26bc7311-8a6f-4cab-8778-067a387e88a5)
+
+
+
    - 메타데이터 기반 식사 타입 지정
+
+
+     |식사 타입|시간대|
+     |:---|:---|
+     |아침|06:00 - 08:59|
+     |점심|11:00 - 13:59|
+     |저녁|17:00 - 19:59|
+     |기타|그 외 시간|
+     
 
 
 ### 3. 로그 적재 시스템 구현
