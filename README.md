@@ -13,9 +13,9 @@
 
 📄 API 명세서 : [API 명세서.pdf](https://github.com/user-attachments/files/17133014/API.pdf)
 
-📄 발표자료 pdf : [최종 발표_건강이조_v0.4.pdf](https://github.com/user-attachments/files/17139851/_._v0.4.pdf)
+📄 발표자료 pdf : 
 
-📄 발표자료 ppt : [최종 발표_건강이조_v0.4.pptx](https://github.com/user-attachments/files/17139852/_._v0.4.pptx)
+📄 발표자료 ppt : 
 
 📄 시연 영상 : 
 
